@@ -1,0 +1,57 @@
+[
+  {
+    "name": "princess",
+    "price": "132",
+    "labels": [
+      "Doll",
+      "Battery Powered",
+      "Baby"
+    ],
+    "createdAt": 1669152533042,
+    "inStock": true
+  },
+  {
+    "name": "my toy",
+    "price": "132",
+    "labels": [
+      "Doll",
+      "Battery Powered",
+      "Baby"
+    ],
+    "createdAt": 1669152518702,
+    "inStock": true
+  },
+  {
+    "name": "Woody",
+    "price": 100,
+    "labels": [
+      "Doll",
+      "Battery Powered",
+      "Movie"
+    ],
+    "createdAt": 1631031801011,
+    "inStock": true
+  },
+  {
+    "name": "Paz lightyear",
+    "price": 100,
+    "labels": [
+      "Doll",
+      "Battery Powered",
+      "Movie"
+    ],
+    "createdAt": 1631031801011,
+    "inStock": true
+  },
+  {
+    "name": "Baby",
+    "price": 130,
+    "labels": [
+      "Doll",
+      "Battery Powered",
+      "Baby"
+    ],
+    "createdAt": 1631031801011,
+    "inStock": true
+  }
+]

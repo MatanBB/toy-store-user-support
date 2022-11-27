@@ -1,0 +1,605 @@
+26.11.2022, 12:03:40 - INFO - Server is running on port: 3030
+26.11.2022, 12:05:02 - INFO - Server is running on port: 3030
+26.11.2022, 12:05:50 - DEBUG - auth.service - signup with username: matan, fullname: matanbb
+26.11.2022, 12:05:50 - DEBUG - auth.route - new account created: {"username":"matan","password":"$2b$10$i7eeYf2//ZXu96eYVrtXJ.2zXezdWl/pCYW6LG2Ylx02SOdHI2PgS","fullname":"matanbb","score":0,"_id":"6381e4fe3d493be6e9e0cf97"}
+26.11.2022, 12:05:50 - DEBUG - auth.service - login with username: matan
+26.11.2022, 12:05:50 - INFO - User login:  | {"_id":"6381e4fe3d493be6e9e0cf97","username":"matan","fullname":"matanbb","score":0}
+26.11.2022, 12:08:08 - INFO - Server is running on port: 3030
+26.11.2022, 12:23:57 - DEBUG - auth.service - login with username: undefined
+26.11.2022, 12:23:57 - ERROR - Failed to Login TypeError: Cannot read properties of null (reading 'password')
+26.11.2022, 12:24:18 - DEBUG - auth.service - login with username: matan
+26.11.2022, 12:24:18 - INFO - User login:  | {"_id":"6381e4fe3d493be6e9e0cf97","username":"matan","fullname":"matanbb","score":0}
+26.11.2022, 12:30:30 - INFO - Server is running on port: 3030
+26.11.2022, 12:31:19 - INFO - Server is running on port: 3030
+26.11.2022, 12:31:31 - INFO - Server is running on port: 3030
+26.11.2022, 12:31:40 - INFO - Server is running on port: 3030
+26.11.2022, 12:33:23 - DEBUG - auth.service - signup with username: matanAdmin, fullname: matanManager
+26.11.2022, 12:33:23 - DEBUG - auth.route - new account created: {"username":"matanAdmin","password":"$2b$10$95.LmR0DOU/S.DRU1ProL.9Mz/f0NivXO5.mbeYQofOB7n9JQDbiS","fullname":"matanManager","score":0,"_id":"6381eb73edce92b9cc894370"}
+26.11.2022, 12:33:23 - DEBUG - auth.service - login with username: matanAdmin
+26.11.2022, 12:33:23 - INFO - User login:  | {"_id":"6381eb73edce92b9cc894370","username":"matanAdmin","fullname":"matanManager","score":0}
+26.11.2022, 12:35:39 - INFO - Server is running on port: 3030
+26.11.2022, 12:36:00 - INFO - Server is running on port: 3030
+26.11.2022, 12:36:10 - DEBUG - auth.service - signup with username: matanAdmin1, fullname: matanManager1
+26.11.2022, 12:36:10 - DEBUG - auth.route - new account created: {"username":"matanAdmin1","password":"$2b$10$ZcD1mng4p3m58cL29Xkf0eH7xCR3KdbP3Of5HhprgvRh177LfFrZy","fullname":"matanManager1","score":0,"_id":"6381ec1aefaeed68214bb042"}
+26.11.2022, 12:36:10 - DEBUG - auth.service - login with username: matanAdmin1
+26.11.2022, 12:36:10 - INFO - User login:  | {"_id":"6381ec1aefaeed68214bb042","username":"matanAdmin1","fullname":"matanManager1","score":0}
+26.11.2022, 12:38:22 - INFO - Server is running on port: 3030
+26.11.2022, 12:38:27 - DEBUG - auth.service - signup with username: matanAdmin1, fullname: matanManager1
+26.11.2022, 12:38:27 - ERROR - cannot insert user | {}
+26.11.2022, 12:38:27 - ERROR - Failed to signup ReferenceError: isAdmin is not defined
+26.11.2022, 12:38:36 - INFO - Server is running on port: 3030
+26.11.2022, 12:38:41 - DEBUG - auth.service - signup with username: matanAdmin1, fullname: matanManager1
+26.11.2022, 12:38:41 - ERROR - cannot insert user | {}
+26.11.2022, 12:38:41 - ERROR - Failed to signup ReferenceError: isAdmin is not defined
+26.11.2022, 12:38:48 - INFO - Server is running on port: 3030
+26.11.2022, 12:38:53 - DEBUG - auth.service - signup with username: matanAdmin1, fullname: matanManager1
+26.11.2022, 12:38:53 - ERROR - cannot insert user | {}
+26.11.2022, 12:38:53 - ERROR - Failed to signup ReferenceError: isAdmin is not defined
+26.11.2022, 12:38:56 - INFO - Server is running on port: 3030
+26.11.2022, 12:39:34 - INFO - Server is running on port: 3030
+26.11.2022, 12:39:41 - DEBUG - auth.service - signup with username: matanAdmin1, fullname: matanManager1
+26.11.2022, 12:39:41 - ERROR - cannot insert user | {}
+26.11.2022, 12:39:41 - ERROR - Failed to signup ReferenceError: isAdmin is not defined
+26.11.2022, 12:40:00 - INFO - Server is running on port: 3030
+26.11.2022, 12:40:03 - INFO - Server is running on port: 3030
+26.11.2022, 12:40:06 - DEBUG - auth.service - signup with username: matanAdmin1, fullname: matanManager1
+26.11.2022, 12:40:06 - ERROR - cannot insert user | {}
+26.11.2022, 12:40:06 - ERROR - Failed to signup ReferenceError: isAdmin is not defined
+26.11.2022, 12:40:13 - INFO - Server is running on port: 3030
+26.11.2022, 12:40:15 - DEBUG - auth.service - signup with username: matanAdmin1, fullname: matanManager1
+26.11.2022, 12:40:15 - ERROR - cannot insert user | {}
+26.11.2022, 12:40:15 - ERROR - Failed to signup ReferenceError: isAdmin is not defined
+26.11.2022, 12:40:57 - INFO - Server is running on port: 3030
+26.11.2022, 12:41:02 - INFO - Server is running on port: 3030
+26.11.2022, 12:41:15 - DEBUG - auth.service - signup with username: matanAdmin1, fullname: matanManager1
+26.11.2022, 12:41:15 - ERROR - cannot insert user | {}
+26.11.2022, 12:41:15 - ERROR - Failed to signup ReferenceError: isAdmin is not defined
+26.11.2022, 12:41:22 - INFO - Server is running on port: 3030
+26.11.2022, 12:41:25 - DEBUG - auth.service - signup with username: matanAdmin1, fullname: matanManager1
+26.11.2022, 12:41:25 - ERROR - cannot insert user | {}
+26.11.2022, 12:41:25 - ERROR - Failed to signup ReferenceError: isAdmin is not defined
+26.11.2022, 12:41:36 - DEBUG - auth.service - signup with username: matanAdmin1, fullname: matanManager1
+26.11.2022, 12:41:36 - ERROR - cannot insert user | {}
+26.11.2022, 12:41:36 - ERROR - Failed to signup ReferenceError: isAdmin is not defined
+26.11.2022, 12:41:44 - INFO - Server is running on port: 3030
+26.11.2022, 12:41:47 - DEBUG - auth.service - signup with username: matanAdmin1, fullname: matanManager1
+26.11.2022, 12:41:47 - ERROR - cannot insert user | {}
+26.11.2022, 12:41:47 - ERROR - Failed to signup ReferenceError: isAdmin is not defined
+26.11.2022, 12:41:52 - INFO - Server is running on port: 3030
+26.11.2022, 12:41:54 - DEBUG - auth.service - signup with username: matanAdmin1, fullname: matanManager1
+26.11.2022, 12:41:54 - ERROR - cannot insert user | {}
+26.11.2022, 12:41:54 - ERROR - Failed to signup ReferenceError: isAdmin is not defined
+26.11.2022, 12:42:22 - INFO - Server is running on port: 3030
+26.11.2022, 12:42:24 - DEBUG - auth.service - signup with username: matanAdmin1, fullname: matanManager1
+26.11.2022, 12:42:24 - ERROR - cannot insert user | {}
+26.11.2022, 12:42:24 - ERROR - Failed to signup ReferenceError: isAdmin is not defined
+26.11.2022, 12:42:55 - INFO - Server is running on port: 3030
+26.11.2022, 12:42:56 - DEBUG - auth.service - signup with username: matanAdmin1, fullname: matanManager1
+26.11.2022, 12:42:56 - ERROR - cannot insert user | {}
+26.11.2022, 12:42:56 - ERROR - Failed to signup ReferenceError: isAdmin is not defined
+26.11.2022, 12:43:28 - INFO - Server is running on port: 3030
+26.11.2022, 12:43:33 - DEBUG - auth.service - signup with username: matanAdmin1, fullname: matanManager1
+26.11.2022, 12:43:33 - ERROR - cannot insert user | {}
+26.11.2022, 12:43:33 - ERROR - Failed to signup ReferenceError: isAdmin is not defined
+26.11.2022, 12:43:35 - DEBUG - auth.service - signup with username: matanAdmin11, fullname: matanManager1
+26.11.2022, 12:43:35 - ERROR - cannot insert user | {}
+26.11.2022, 12:43:35 - ERROR - Failed to signup ReferenceError: isAdmin is not defined
+26.11.2022, 12:43:57 - INFO - Server is running on port: 3030
+26.11.2022, 12:45:43 - DEBUG - auth.service - signup with username: matanAdmin11, fullname: matanManager1
+26.11.2022, 12:45:43 - DEBUG - auth.route - new account created: {"username":"matanAdmin11","password":"$2b$10$b9jNKd5yCuQuQOXgZVmQBOdtWAvw2wFIMt7EsITI4BIN/CsvCl4XS","fullname":"matanManager1","score":0,"_id":"6381ee571310fe4daa433ca7"}
+26.11.2022, 12:45:43 - DEBUG - auth.service - login with username: matanAdmin11
+26.11.2022, 12:45:43 - INFO - User login:  | {"_id":"6381ee571310fe4daa433ca7","username":"matanAdmin11","fullname":"matanManager1","score":0}
+26.11.2022, 12:46:41 - INFO - Server is running on port: 3030
+26.11.2022, 12:46:58 - DEBUG - auth.service - signup with username: matanAdmin11, fullname: matanManager1
+26.11.2022, 12:46:58 - DEBUG - auth.route - new account created: {"username":"matanAdmin11","password":"$2b$10$jS4jpGwx6YoZ7SHl7qOBwOBJmy7KRrWItmgA8OaerwVpaKIzvx4Nu","fullname":"matanManager1","score":0,"isAdmin":false,"_id":"6381eea292cea528017bf0a9"}
+26.11.2022, 12:46:58 - DEBUG - auth.service - login with username: matanAdmin11
+26.11.2022, 12:46:59 - INFO - User login:  | {"_id":"6381ee571310fe4daa433ca7","username":"matanAdmin11","fullname":"matanManager1","score":0}
+26.11.2022, 12:47:08 - DEBUG - auth.service - signup with username: matanAdmin11, fullname: matanManager1
+26.11.2022, 12:47:08 - DEBUG - auth.route - new account created: {"username":"matanAdmin11","password":"$2b$10$pahOcWFAK.EksOKsktdAYu2JNvlUYek7vz26jnChjt8mSCwPxo4aG","fullname":"matanManager1","score":0,"isAdmin":true,"_id":"6381eeac92cea528017bf0aa"}
+26.11.2022, 12:47:08 - DEBUG - auth.service - login with username: matanAdmin11
+26.11.2022, 12:47:08 - INFO - User login:  | {"_id":"6381ee571310fe4daa433ca7","username":"matanAdmin11","fullname":"matanManager1","score":0}
+26.11.2022, 12:47:28 - DEBUG - auth.service - signup with username: matanAdmin11, fullname: matanManager1
+26.11.2022, 12:47:28 - DEBUG - auth.route - new account created: {"username":"matanAdmin11","password":"$2b$10$ADKIp8QDb0xEK8MXD6P7weh1FG6vPuWsFJKeam5XfKutAUy6IvNt2","fullname":"matanManager1","score":0,"isAdmin":false,"_id":"6381eec092cea528017bf0ab"}
+26.11.2022, 12:47:28 - DEBUG - auth.service - login with username: matanAdmin11
+26.11.2022, 12:47:29 - INFO - User login:  | {"_id":"6381ee571310fe4daa433ca7","username":"matanAdmin11","fullname":"matanManager1","score":0}
+26.11.2022, 12:48:44 - DEBUG - auth.service - signup with username: matanAdmin, fullname: matanManager
+26.11.2022, 12:48:44 - DEBUG - auth.route - new account created: {"username":"matanAdmin","password":"$2b$10$zDspTiEqRqu.ZT7W/Th9Ae1plE6m8elecB2kM8i0iJgVTBUcreQt.","fullname":"matanManager","score":0,"isAdmin":true,"_id":"6381ef0c92cea528017bf0ac"}
+26.11.2022, 12:48:44 - DEBUG - auth.service - login with username: matanAdmin
+26.11.2022, 12:48:44 - INFO - User login:  | {"_id":"6381ef0c92cea528017bf0ac","username":"matanAdmin","fullname":"matanManager","score":0,"isAdmin":true}
+26.11.2022, 12:48:56 - DEBUG - auth.service - signup with username: matan, fullname: matan
+26.11.2022, 12:48:56 - DEBUG - auth.route - new account created: {"username":"matan","password":"$2b$10$V.o/XmL0qXyPzY46YudDJOcrE2sqF.CUDparqUA8IQtDgPlM6w6Dy","fullname":"matan","score":0,"isAdmin":false,"_id":"6381ef1892cea528017bf0ad"}
+26.11.2022, 12:48:56 - DEBUG - auth.service - login with username: matan
+26.11.2022, 12:48:56 - INFO - User login:  | {"_id":"6381ef1892cea528017bf0ad","username":"matan","fullname":"matan","score":0,"isAdmin":false}
+26.11.2022, 12:49:08 - DEBUG - auth.service - signup with username: matan, fullname: baycake
+26.11.2022, 12:49:08 - DEBUG - auth.route - new account created: {"username":"matan","password":"$2b$10$0DcvNstfFLGu2VXRfZO0sep0t5l9zMDwD.X5wmScojkngBMMhaSBi","fullname":"baycake","score":0,"isAdmin":false,"_id":"6381ef2492cea528017bf0ae"}
+26.11.2022, 12:49:08 - DEBUG - auth.service - login with username: matan
+26.11.2022, 12:49:08 - INFO - User login:  | {"_id":"6381ef1892cea528017bf0ad","username":"matan","fullname":"matan","score":0,"isAdmin":false}
+26.11.2022, 13:00:29 - INFO - Req was made
+26.11.2022, 13:00:29 - DEBUG - Getting toys
+26.11.2022, 13:00:35 - INFO - Req was made
+26.11.2022, 13:00:35 - DEBUG - Getting toys
+26.11.2022, 13:00:36 - INFO - Req was made
+26.11.2022, 13:00:36 - DEBUG - Getting toys
+26.11.2022, 13:00:40 - INFO - Req was made
+26.11.2022, 13:00:40 - DEBUG - Getting toys
+26.11.2022, 13:02:20 - INFO - Req was made
+26.11.2022, 13:02:20 - DEBUG - Getting toys
+26.11.2022, 13:02:51 - INFO - Req was made
+26.11.2022, 13:02:51 - DEBUG - Getting toys
+26.11.2022, 13:02:58 - INFO - Req was made
+26.11.2022, 13:02:58 - DEBUG - Getting toys
+26.11.2022, 13:21:00 - INFO - Req was made
+26.11.2022, 13:21:00 - DEBUG - Getting toys
+26.11.2022, 13:27:07 - INFO - Req was made
+26.11.2022, 13:27:07 - DEBUG - Getting toys
+26.11.2022, 14:26:24 - INFO - Server is running on port: 3030
+26.11.2022, 14:31:08 - DEBUG - auth.service - signup with username: matan1, fullname: baycake
+26.11.2022, 14:31:08 - DEBUG - auth.route - new account created: {"username":"matan1","password":"$2b$10$K4921VyoIoSHmf7NuHW7ZeAxWJRJG6hB/wcKawm0Ju7IYyr4gEYgW","fullname":"baycake","score":0,"isAdmin":false,"_id":"6382070cebceaa4fde0225e4"}
+26.11.2022, 14:31:08 - DEBUG - auth.service - login with username: matan1
+26.11.2022, 14:31:08 - INFO - User login:  | {"_id":"6382070cebceaa4fde0225e4","username":"matan1","fullname":"baycake","score":0,"isAdmin":false}
+26.11.2022, 14:32:02 - DEBUG - auth.service - login with username: matan1
+26.11.2022, 14:32:02 - INFO - User login:  | {"_id":"6382070cebceaa4fde0225e4","username":"matan1","fullname":"baycake","score":0,"isAdmin":false}
+26.11.2022, 14:32:23 - DEBUG - auth.service - login with username: matan
+26.11.2022, 14:32:23 - ERROR - Failed to Login Invalid username or password
+26.11.2022, 14:32:27 - DEBUG - auth.service - login with username: 313
+26.11.2022, 14:32:27 - ERROR - Failed to Login TypeError: Cannot read properties of null (reading 'password')
+26.11.2022, 14:33:18 - DEBUG - auth.service - login with username: matan1
+26.11.2022, 14:33:18 - INFO - User login:  | {"_id":"6382070cebceaa4fde0225e4","username":"matan1","fullname":"baycake","score":0,"isAdmin":false}
+26.11.2022, 14:33:21 - DEBUG - auth.service - login with username: matan1
+26.11.2022, 14:33:21 - ERROR - Failed to Login Invalid username or password
+26.11.2022, 14:33:24 - INFO - Req was made
+26.11.2022, 14:33:24 - DEBUG - Getting toys
+26.11.2022, 14:33:32 - DEBUG - auth.service - login with username: matan1
+26.11.2022, 14:33:32 - INFO - User login:  | {"_id":"6382070cebceaa4fde0225e4","username":"matan1","fullname":"baycake","score":0,"isAdmin":false}
+26.11.2022, 14:33:34 - DEBUG - auth.service - login with username: matan1
+26.11.2022, 14:33:34 - INFO - User login:  | {"_id":"6382070cebceaa4fde0225e4","username":"matan1","fullname":"baycake","score":0,"isAdmin":false}
+26.11.2022, 14:33:35 - DEBUG - auth.service - login with username: matan1
+26.11.2022, 14:33:35 - INFO - User login:  | {"_id":"6382070cebceaa4fde0225e4","username":"matan1","fullname":"baycake","score":0,"isAdmin":false}
+26.11.2022, 14:34:07 - DEBUG - auth.service - login with username: matan1
+26.11.2022, 14:34:08 - INFO - User login:  | {"_id":"6382070cebceaa4fde0225e4","username":"matan1","fullname":"baycake","score":0,"isAdmin":false}
+26.11.2022, 14:34:34 - DEBUG - auth.service - login with username: matan1
+26.11.2022, 14:34:34 - INFO - User login:  | {"_id":"6382070cebceaa4fde0225e4","username":"matan1","fullname":"baycake","score":0,"isAdmin":false}
+26.11.2022, 14:34:51 - INFO - Req was made
+26.11.2022, 14:34:51 - DEBUG - Getting toys
+26.11.2022, 14:40:04 - DEBUG - auth.service - login with username: matan
+26.11.2022, 14:40:04 - ERROR - Failed to Login Invalid username or password
+26.11.2022, 14:40:16 - DEBUG - auth.service - login with username: matan1
+26.11.2022, 14:40:16 - INFO - User login:  | {"_id":"6382070cebceaa4fde0225e4","username":"matan1","fullname":"baycake","score":0,"isAdmin":false}
+26.11.2022, 14:40:49 - DEBUG - auth.service - login with username: matan1
+26.11.2022, 14:40:49 - INFO - User login:  | {"_id":"6382070cebceaa4fde0225e4","username":"matan1","fullname":"baycake","score":0,"isAdmin":false}
+26.11.2022, 14:41:00 - DEBUG - auth.service - login with username: matan1
+26.11.2022, 14:41:00 - INFO - User login:  | {"_id":"6382070cebceaa4fde0225e4","username":"matan1","fullname":"baycake","score":0,"isAdmin":false}
+26.11.2022, 14:41:38 - DEBUG - auth.service - login with username: matan1
+26.11.2022, 14:41:38 - INFO - User login:  | {"_id":"6382070cebceaa4fde0225e4","username":"matan1","fullname":"baycake","score":0,"isAdmin":false}
+26.11.2022, 14:42:06 - DEBUG - auth.service - login with username: matan1
+26.11.2022, 14:42:06 - INFO - User login:  | {"_id":"6382070cebceaa4fde0225e4","username":"matan1","fullname":"baycake","score":0,"isAdmin":false}
+26.11.2022, 14:42:58 - DEBUG - auth.service - login with username: matan1
+26.11.2022, 14:42:58 - INFO - User login:  | {"_id":"6382070cebceaa4fde0225e4","username":"matan1","fullname":"baycake","score":0,"isAdmin":false}
+26.11.2022, 14:43:26 - DEBUG - auth.service - login with username: matan1
+26.11.2022, 14:43:26 - INFO - User login:  | {"_id":"6382070cebceaa4fde0225e4","username":"matan1","fullname":"baycake","score":0,"isAdmin":false}
+26.11.2022, 14:43:53 - DEBUG - auth.service - login with username: matan1
+26.11.2022, 14:43:54 - INFO - User login:  | {"_id":"6382070cebceaa4fde0225e4","username":"matan1","fullname":"baycake","score":0,"isAdmin":false}
+26.11.2022, 14:45:29 - DEBUG - auth.service - login with username: matan1
+26.11.2022, 14:45:29 - INFO - User login:  | {"_id":"6382070cebceaa4fde0225e4","username":"matan1","fullname":"baycake","score":0,"isAdmin":false}
+26.11.2022, 14:51:50 - DEBUG - auth.service - login with username: matan1
+26.11.2022, 14:51:51 - INFO - User login:  | {"_id":"6382070cebceaa4fde0225e4","username":"matan1","fullname":"baycake","score":0,"isAdmin":false}
+26.11.2022, 14:59:34 - INFO - Req was made
+26.11.2022, 14:59:34 - DEBUG - Getting toys
+26.11.2022, 15:00:45 - INFO - Req was made
+26.11.2022, 15:00:45 - DEBUG - Getting toys
+26.11.2022, 15:03:33 - DEBUG - auth.service - login with username: matan1
+26.11.2022, 15:03:33 - INFO - User login:  | {"_id":"6382070cebceaa4fde0225e4","username":"matan1","fullname":"baycake","score":0,"isAdmin":false}
+26.11.2022, 15:05:21 - DEBUG - auth.service - login with username: matan1
+26.11.2022, 15:05:21 - INFO - User login:  | {"_id":"6382070cebceaa4fde0225e4","username":"matan1","fullname":"baycake","score":0,"isAdmin":false}
+26.11.2022, 15:06:20 - DEBUG - auth.service - login with username: 
+26.11.2022, 15:06:20 - ERROR - Failed to Login TypeError: Cannot read properties of null (reading 'password')
+26.11.2022, 15:06:21 - INFO - Req was made
+26.11.2022, 15:06:21 - DEBUG - Getting toys
+26.11.2022, 15:07:25 - INFO - Req was made
+26.11.2022, 15:07:25 - DEBUG - Getting toys
+26.11.2022, 15:07:45 - DEBUG - auth.service - login with username: 
+26.11.2022, 15:07:45 - ERROR - Failed to Login TypeError: Cannot read properties of null (reading 'password')
+26.11.2022, 15:07:51 - DEBUG - auth.service - login with username: 
+26.11.2022, 15:07:51 - ERROR - Failed to Login TypeError: Cannot read properties of null (reading 'password')
+26.11.2022, 15:07:59 - DEBUG - auth.service - login with username: matan1
+26.11.2022, 15:07:59 - INFO - User login:  | {"_id":"6382070cebceaa4fde0225e4","username":"matan1","fullname":"baycake","score":0,"isAdmin":false}
+26.11.2022, 15:07:59 - INFO - Req was made
+26.11.2022, 15:07:59 - DEBUG - Getting toys
+26.11.2022, 15:08:24 - DEBUG - auth.service - login with username: 
+26.11.2022, 15:08:24 - ERROR - Failed to Login TypeError: Cannot read properties of null (reading 'password')
+26.11.2022, 16:07:19 - INFO - Server is running on port: 3030
+26.11.2022, 16:08:57 - DEBUG - auth.service - login with username: matan1
+26.11.2022, 16:08:57 - INFO - User login:  | {"_id":"6382070cebceaa4fde0225e4","username":"matan1","fullname":"baycake","score":0,"isAdmin":false}
+26.11.2022, 16:08:57 - INFO - Req was made
+26.11.2022, 16:08:57 - DEBUG - Getting toys
+26.11.2022, 16:09:02 - INFO - Req was made
+26.11.2022, 16:09:02 - DEBUG - Getting toys
+26.11.2022, 16:10:08 - INFO - Req was made
+26.11.2022, 16:10:08 - DEBUG - Getting toys
+26.11.2022, 16:10:49 - INFO - Req was made
+26.11.2022, 16:10:49 - DEBUG - Getting toys
+26.11.2022, 16:10:51 - INFO - Req was made
+26.11.2022, 16:10:51 - DEBUG - Getting toys
+26.11.2022, 16:10:57 - DEBUG - auth.service - login with username: matan1
+26.11.2022, 16:10:57 - INFO - User login:  | {"_id":"6382070cebceaa4fde0225e4","username":"matan1","fullname":"baycake","score":0,"isAdmin":false}
+26.11.2022, 16:10:57 - INFO - Req was made
+26.11.2022, 16:10:57 - DEBUG - Getting toys
+26.11.2022, 16:10:59 - INFO - Req was made
+26.11.2022, 16:10:59 - DEBUG - Getting toys
+26.11.2022, 16:11:02 - INFO - Req was made
+26.11.2022, 16:11:02 - DEBUG - Getting toys
+26.11.2022, 16:11:14 - DEBUG - auth.service - login with username: matan1
+26.11.2022, 16:11:14 - INFO - User login:  | {"_id":"6382070cebceaa4fde0225e4","username":"matan1","fullname":"baycake","score":0,"isAdmin":false}
+26.11.2022, 16:11:14 - INFO - Req was made
+26.11.2022, 16:11:14 - DEBUG - Getting toys
+26.11.2022, 16:13:05 - DEBUG - auth.service - login with username: matan1
+26.11.2022, 16:13:05 - INFO - User login:  | {"_id":"6382070cebceaa4fde0225e4","username":"matan1","fullname":"baycake","score":0,"isAdmin":false}
+26.11.2022, 16:13:05 - INFO - Req was made
+26.11.2022, 16:13:05 - DEBUG - Getting toys
+26.11.2022, 16:14:35 - INFO - Req was made
+26.11.2022, 16:14:35 - DEBUG - Getting toys
+26.11.2022, 16:14:38 - INFO - Req was made
+26.11.2022, 16:14:38 - DEBUG - Getting toys
+26.11.2022, 16:14:42 - DEBUG - auth.service - login with username: matan1
+26.11.2022, 16:14:42 - INFO - User login:  | {"_id":"6382070cebceaa4fde0225e4","username":"matan1","fullname":"baycake","score":0,"isAdmin":false}
+26.11.2022, 16:14:42 - INFO - Req was made
+26.11.2022, 16:14:42 - DEBUG - Getting toys
+26.11.2022, 16:14:45 - INFO - Req was made
+26.11.2022, 16:14:45 - DEBUG - Getting toys
+26.11.2022, 16:15:07 - INFO - Req was made
+26.11.2022, 16:15:07 - DEBUG - Getting toys
+26.11.2022, 16:15:11 - DEBUG - auth.service - login with username: n
+26.11.2022, 16:15:11 - ERROR - Failed to Login TypeError: Cannot read properties of null (reading 'password')
+26.11.2022, 16:15:16 - DEBUG - auth.service - login with username: matan1
+26.11.2022, 16:15:16 - INFO - User login:  | {"_id":"6382070cebceaa4fde0225e4","username":"matan1","fullname":"baycake","score":0,"isAdmin":false}
+26.11.2022, 16:15:16 - INFO - Req was made
+26.11.2022, 16:15:16 - DEBUG - Getting toys
+26.11.2022, 16:15:29 - INFO - Req was made
+26.11.2022, 16:15:29 - DEBUG - Getting toys
+26.11.2022, 16:15:52 - DEBUG - auth.service - login with username: matan1
+26.11.2022, 16:15:52 - INFO - User login:  | {"_id":"6382070cebceaa4fde0225e4","username":"matan1","fullname":"baycake","score":0,"isAdmin":false}
+26.11.2022, 16:15:52 - INFO - Req was made
+26.11.2022, 16:15:52 - DEBUG - Getting toys
+26.11.2022, 16:15:53 - INFO - Req was made
+26.11.2022, 16:15:53 - DEBUG - Getting toys
+26.11.2022, 16:15:54 - INFO - Req was made
+26.11.2022, 16:15:54 - DEBUG - Getting toys
+26.11.2022, 16:15:59 - INFO - Req was made
+26.11.2022, 16:15:59 - DEBUG - Getting toys
+26.11.2022, 16:17:16 - DEBUG - auth.service - login with username: matan1
+26.11.2022, 16:17:17 - INFO - User login:  | {"_id":"6382070cebceaa4fde0225e4","username":"matan1","fullname":"baycake","score":0,"isAdmin":false}
+26.11.2022, 16:17:17 - INFO - Req was made
+26.11.2022, 16:17:17 - DEBUG - Getting toys
+26.11.2022, 16:18:37 - INFO - Req was made
+26.11.2022, 16:18:37 - DEBUG - Getting toys
+26.11.2022, 16:19:14 - INFO - Req was made
+26.11.2022, 16:19:14 - DEBUG - Getting toys
+26.11.2022, 16:19:19 - DEBUG - auth.service - login with username: matan1
+26.11.2022, 16:19:20 - INFO - User login:  | {"_id":"6382070cebceaa4fde0225e4","username":"matan1","fullname":"baycake","score":0,"isAdmin":false}
+26.11.2022, 16:19:20 - INFO - Req was made
+26.11.2022, 16:19:20 - DEBUG - Getting toys
+26.11.2022, 16:24:09 - INFO - Req was made
+26.11.2022, 16:24:09 - DEBUG - Getting toys
+26.11.2022, 16:24:15 - DEBUG - auth.service - login with username: matan1
+26.11.2022, 16:24:15 - INFO - User login:  | {"_id":"6382070cebceaa4fde0225e4","username":"matan1","fullname":"baycake","score":0,"isAdmin":false}
+26.11.2022, 16:24:15 - INFO - Req was made
+26.11.2022, 16:24:15 - DEBUG - Getting toys
+26.11.2022, 16:26:17 - INFO - Req was made
+26.11.2022, 16:26:17 - DEBUG - Getting toys
+26.11.2022, 16:26:22 - INFO - Req was made
+26.11.2022, 16:26:22 - DEBUG - Getting toys
+26.11.2022, 16:26:27 - DEBUG - auth.service - login with username: matan1
+26.11.2022, 16:26:27 - INFO - User login:  | {"_id":"6382070cebceaa4fde0225e4","username":"matan1","fullname":"baycake","score":0,"isAdmin":false}
+26.11.2022, 16:26:27 - INFO - Req was made
+26.11.2022, 16:26:27 - DEBUG - Getting toys
+26.11.2022, 16:27:31 - INFO - Req was made
+26.11.2022, 16:27:31 - DEBUG - Getting toys
+26.11.2022, 16:29:34 - INFO - Req was made
+26.11.2022, 16:29:34 - DEBUG - Getting toys
+26.11.2022, 16:29:38 - DEBUG - auth.service - login with username: matan1
+26.11.2022, 16:29:38 - INFO - User login:  | {"_id":"6382070cebceaa4fde0225e4","username":"matan1","fullname":"baycake","score":0,"isAdmin":false}
+26.11.2022, 16:29:38 - INFO - Req was made
+26.11.2022, 16:29:38 - DEBUG - Getting toys
+26.11.2022, 16:31:08 - INFO - Req was made
+26.11.2022, 16:31:08 - DEBUG - Getting toys
+26.11.2022, 16:31:22 - INFO - Req was made
+26.11.2022, 16:31:22 - DEBUG - Getting toys
+26.11.2022, 16:31:39 - INFO - Req was made
+26.11.2022, 16:31:39 - DEBUG - Getting toys
+26.11.2022, 16:31:44 - INFO - Req was made
+26.11.2022, 16:31:44 - DEBUG - Getting toys
+26.11.2022, 16:32:49 - INFO - Req was made
+26.11.2022, 16:32:49 - DEBUG - Getting toys
+26.11.2022, 16:33:00 - INFO - Req was made
+26.11.2022, 16:33:00 - DEBUG - Getting toys
+26.11.2022, 16:33:06 - INFO - Req was made
+26.11.2022, 16:33:06 - DEBUG - Getting toys
+26.11.2022, 16:33:18 - INFO - Req was made
+26.11.2022, 16:33:18 - DEBUG - Getting toys
+26.11.2022, 16:33:27 - DEBUG - auth.service - login with username: matan1
+26.11.2022, 16:33:27 - INFO - User login:  | {"_id":"6382070cebceaa4fde0225e4","username":"matan1","fullname":"baycake","score":0,"isAdmin":false}
+26.11.2022, 16:33:27 - INFO - Req was made
+26.11.2022, 16:33:27 - DEBUG - Getting toys
+26.11.2022, 16:33:37 - INFO - Req was made
+26.11.2022, 16:33:37 - DEBUG - Getting toys
+26.11.2022, 16:33:44 - DEBUG - auth.service - login with username: matan1
+26.11.2022, 16:33:44 - INFO - User login:  | {"_id":"6382070cebceaa4fde0225e4","username":"matan1","fullname":"baycake","score":0,"isAdmin":false}
+26.11.2022, 16:33:44 - INFO - Req was made
+26.11.2022, 16:33:44 - DEBUG - Getting toys
+26.11.2022, 16:34:07 - INFO - Req was made
+26.11.2022, 16:34:07 - DEBUG - Getting toys
+26.11.2022, 16:34:15 - DEBUG - auth.service - login with username: matan1
+26.11.2022, 16:34:15 - INFO - User login:  | {"_id":"6382070cebceaa4fde0225e4","username":"matan1","fullname":"baycake","score":0,"isAdmin":false}
+26.11.2022, 16:34:15 - INFO - Req was made
+26.11.2022, 16:34:15 - DEBUG - Getting toys
+26.11.2022, 16:36:11 - INFO - Req was made
+26.11.2022, 16:36:11 - DEBUG - Getting toys
+26.11.2022, 16:36:58 - DEBUG - auth.service - login with username: matan1
+26.11.2022, 16:36:59 - INFO - User login:  | {"_id":"6382070cebceaa4fde0225e4","username":"matan1","fullname":"baycake","score":0,"isAdmin":false}
+26.11.2022, 16:36:59 - INFO - Req was made
+26.11.2022, 16:36:59 - DEBUG - Getting toys
+26.11.2022, 16:37:21 - DEBUG - auth.service - login with username: matan1
+26.11.2022, 16:37:21 - INFO - User login:  | {"_id":"6382070cebceaa4fde0225e4","username":"matan1","fullname":"baycake","score":0,"isAdmin":false}
+26.11.2022, 16:37:21 - INFO - Req was made
+26.11.2022, 16:37:21 - DEBUG - Getting toys
+26.11.2022, 16:37:42 - INFO - Req was made
+26.11.2022, 16:37:42 - DEBUG - Getting toys
+26.11.2022, 16:39:00 - INFO - Req was made
+26.11.2022, 16:39:00 - DEBUG - Getting toys
+26.11.2022, 16:40:32 - INFO - Req was made
+26.11.2022, 16:40:32 - DEBUG - Getting toys
+26.11.2022, 16:40:33 - INFO - Req was made
+26.11.2022, 16:40:33 - DEBUG - Getting toys
+26.11.2022, 16:43:43 - INFO - Req was made
+26.11.2022, 16:43:43 - DEBUG - Getting toys
+26.11.2022, 16:45:09 - INFO - Req was made
+26.11.2022, 16:45:09 - DEBUG - Getting toys
+26.11.2022, 16:45:12 - INFO - Req was made
+26.11.2022, 16:45:12 - DEBUG - Getting toys
+26.11.2022, 16:45:29 - INFO - Req was made
+26.11.2022, 16:45:29 - DEBUG - Getting toys
+26.11.2022, 16:45:40 - INFO - Req was made
+26.11.2022, 16:45:40 - DEBUG - Getting toys
+26.11.2022, 16:45:49 - INFO - Req was made
+26.11.2022, 16:45:49 - DEBUG - Getting toys
+26.11.2022, 16:46:12 - INFO - Req was made
+26.11.2022, 16:46:12 - DEBUG - Getting toys
+26.11.2022, 16:46:16 - DEBUG - auth.service - login with username: matan1
+26.11.2022, 16:46:16 - INFO - User login:  | {"_id":"6382070cebceaa4fde0225e4","username":"matan1","fullname":"baycake","score":0,"isAdmin":false}
+26.11.2022, 16:46:16 - INFO - Req was made
+26.11.2022, 16:46:16 - DEBUG - Getting toys
+26.11.2022, 16:46:19 - INFO - Req was made
+26.11.2022, 16:46:19 - DEBUG - Getting toys
+26.11.2022, 16:46:23 - INFO - Req was made
+26.11.2022, 16:46:23 - DEBUG - Getting toys
+26.11.2022, 16:47:09 - INFO - Req was made
+26.11.2022, 16:47:09 - DEBUG - Getting toys
+26.11.2022, 16:47:12 - INFO - Req was made
+26.11.2022, 16:47:12 - DEBUG - Getting toys
+26.11.2022, 16:47:45 - INFO - Req was made
+26.11.2022, 16:47:45 - DEBUG - Getting toys
+26.11.2022, 16:47:46 - INFO - Req was made
+26.11.2022, 16:47:46 - DEBUG - Getting toys
+26.11.2022, 16:47:57 - INFO - Req was made
+26.11.2022, 16:47:57 - DEBUG - Getting toys
+26.11.2022, 16:48:16 - INFO - Req was made
+26.11.2022, 16:48:16 - DEBUG - Getting toys
+26.11.2022, 16:48:36 - INFO - Req was made
+26.11.2022, 16:48:36 - DEBUG - Getting toys
+26.11.2022, 16:48:44 - INFO - Req was made
+26.11.2022, 16:48:44 - DEBUG - Getting toys
+26.11.2022, 16:48:50 - INFO - Req was made
+26.11.2022, 16:48:50 - DEBUG - Getting toys
+26.11.2022, 16:48:55 - INFO - Req was made
+26.11.2022, 16:48:55 - DEBUG - Getting toys
+26.11.2022, 16:50:46 - INFO - Req was made
+26.11.2022, 16:50:46 - DEBUG - Getting toys
+26.11.2022, 16:51:01 - INFO - Req was made
+26.11.2022, 16:51:01 - DEBUG - Getting toys
+26.11.2022, 16:51:05 - INFO - Req was made
+26.11.2022, 16:51:05 - DEBUG - Getting toys
+26.11.2022, 16:51:14 - INFO - Req was made
+26.11.2022, 16:51:14 - DEBUG - Getting toys
+26.11.2022, 16:51:18 - INFO - Req was made
+26.11.2022, 16:51:18 - DEBUG - Getting toys
+26.11.2022, 16:51:32 - INFO - Req was made
+26.11.2022, 16:51:32 - DEBUG - Getting toys
+26.11.2022, 16:51:49 - INFO - Req was made
+26.11.2022, 16:51:49 - DEBUG - Getting toys
+26.11.2022, 16:52:04 - INFO - Req was made
+26.11.2022, 16:52:04 - DEBUG - Getting toys
+26.11.2022, 16:52:13 - INFO - Req was made
+26.11.2022, 16:52:13 - DEBUG - Getting toys
+26.11.2022, 16:53:33 - INFO - Req was made
+26.11.2022, 16:53:33 - DEBUG - Getting toys
+26.11.2022, 16:53:49 - DEBUG - auth.service - login with username: matan1
+26.11.2022, 16:53:49 - INFO - User login:  | {"_id":"6382070cebceaa4fde0225e4","username":"matan1","fullname":"baycake","score":0,"isAdmin":false}
+26.11.2022, 16:53:49 - INFO - Req was made
+26.11.2022, 16:53:49 - DEBUG - Getting toys
+26.11.2022, 16:54:00 - INFO - Req was made
+26.11.2022, 16:54:00 - DEBUG - Getting toys
+26.11.2022, 16:54:03 - INFO - Req was made
+26.11.2022, 16:54:03 - DEBUG - Getting toys
+26.11.2022, 16:56:15 - INFO - Req was made
+26.11.2022, 16:56:15 - DEBUG - Getting toys
+26.11.2022, 16:56:39 - INFO - Req was made
+26.11.2022, 16:56:39 - DEBUG - Getting toys
+26.11.2022, 16:56:48 - INFO - Req was made
+26.11.2022, 16:56:48 - DEBUG - Getting toys
+26.11.2022, 16:57:05 - INFO - Req was made
+26.11.2022, 16:57:05 - DEBUG - Getting toys
+26.11.2022, 16:57:14 - INFO - Req was made
+26.11.2022, 16:57:14 - DEBUG - Getting toys
+26.11.2022, 16:57:15 - INFO - Req was made
+26.11.2022, 16:57:15 - DEBUG - Getting toys
+26.11.2022, 16:57:20 - INFO - Req was made
+26.11.2022, 16:57:20 - DEBUG - Getting toys
+26.11.2022, 16:57:23 - INFO - Req was made
+26.11.2022, 16:57:23 - DEBUG - Getting toys
+26.11.2022, 16:57:48 - INFO - Req was made
+26.11.2022, 16:57:48 - DEBUG - Getting toys
+26.11.2022, 16:58:36 - INFO - Server is running on port: 3030
+26.11.2022, 16:58:50 - INFO - Req was made
+26.11.2022, 16:58:50 - DEBUG - Getting toys
+26.11.2022, 16:59:01 - INFO - Req was made
+26.11.2022, 16:59:01 - DEBUG - Getting toys
+26.11.2022, 16:59:07 - INFO - Req was made
+26.11.2022, 16:59:07 - DEBUG - Getting toys
+26.11.2022, 16:59:13 - INFO - Req was made
+26.11.2022, 16:59:13 - DEBUG - Getting toys
+26.11.2022, 16:59:44 - INFO - Req was made
+26.11.2022, 16:59:44 - DEBUG - Getting toys
+26.11.2022, 16:59:47 - INFO - Req was made
+26.11.2022, 16:59:47 - DEBUG - Getting toys
+26.11.2022, 16:59:51 - INFO - Req was made
+26.11.2022, 16:59:51 - DEBUG - Getting toys
+26.11.2022, 17:00:00 - INFO - Req was made
+26.11.2022, 17:00:00 - DEBUG - Getting toys
+26.11.2022, 17:00:05 - INFO - Req was made
+26.11.2022, 17:00:05 - DEBUG - Getting toys
+26.11.2022, 17:00:38 - INFO - Req was made
+26.11.2022, 17:00:38 - DEBUG - Getting toys
+26.11.2022, 17:00:46 - INFO - Req was made
+26.11.2022, 17:00:46 - DEBUG - Getting toys
+26.11.2022, 17:00:47 - INFO - Req was made
+26.11.2022, 17:00:47 - DEBUG - Getting toys
+26.11.2022, 17:00:48 - INFO - Req was made
+26.11.2022, 17:00:48 - DEBUG - Getting toys
+26.11.2022, 17:00:57 - DEBUG - auth.service - login with username: matan1
+26.11.2022, 17:00:58 - INFO - User login:  | {"_id":"6382070cebceaa4fde0225e4","username":"matan1","fullname":"baycake","score":0,"isAdmin":false}
+26.11.2022, 17:00:58 - INFO - Req was made
+26.11.2022, 17:00:58 - DEBUG - Getting toys
+26.11.2022, 17:00:59 - INFO - Req was made
+26.11.2022, 17:00:59 - DEBUG - Getting toys
+26.11.2022, 17:01:19 - DEBUG - auth.service - login with username: matanAdmin
+26.11.2022, 17:01:19 - ERROR - Failed to Login Invalid username or password
+26.11.2022, 17:01:20 - INFO - Req was made
+26.11.2022, 17:01:20 - DEBUG - Getting toys
+26.11.2022, 17:02:04 - DEBUG - auth.service - signup with username: matan12, fullname: baycake
+26.11.2022, 17:02:04 - DEBUG - auth.route - new account created: {"username":"matan12","password":"$2b$10$bS.Fbs3DVGr2YqGCTKIateYOg4rBNrJQQ7tc5Aitr4uyO14U1l15e","fullname":"baycake","score":0,"isAdmin":true,"_id":"63822a6c038f766605e62383"}
+26.11.2022, 17:02:04 - DEBUG - auth.service - login with username: matan12
+26.11.2022, 17:02:04 - INFO - User login:  | {"_id":"63822a6c038f766605e62383","username":"matan12","fullname":"baycake","score":0,"isAdmin":true}
+26.11.2022, 17:02:16 - DEBUG - auth.service - login with username: matan12
+26.11.2022, 17:02:16 - INFO - User login:  | {"_id":"63822a6c038f766605e62383","username":"matan12","fullname":"baycake","score":0,"isAdmin":true}
+26.11.2022, 17:02:16 - INFO - Req was made
+26.11.2022, 17:02:16 - DEBUG - Getting toys
+26.11.2022, 17:02:21 - INFO - Req was made
+26.11.2022, 17:02:21 - DEBUG - Getting toys
+26.11.2022, 17:02:25 - INFO - Req was made
+26.11.2022, 17:02:25 - DEBUG - Getting toys
+26.11.2022, 17:02:31 - INFO - Req was made
+26.11.2022, 17:02:31 - DEBUG - Getting toys
+26.11.2022, 17:02:42 - INFO - Req was made
+26.11.2022, 17:02:42 - DEBUG - Getting toys
+26.11.2022, 17:03:15 - INFO - Req was made
+26.11.2022, 17:03:15 - DEBUG - Getting toys
+26.11.2022, 17:03:17 - INFO - Req was made
+26.11.2022, 17:03:17 - DEBUG - Getting toys
+26.11.2022, 17:03:34 - DEBUG - auth.service - login with username: matan12
+26.11.2022, 17:03:34 - INFO - User login:  | {"_id":"63822a6c038f766605e62383","username":"matan12","fullname":"baycake","score":0,"isAdmin":true}
+26.11.2022, 17:03:34 - INFO - Req was made
+26.11.2022, 17:03:34 - DEBUG - Getting toys
+26.11.2022, 17:03:36 - INFO - Req was made
+26.11.2022, 17:03:36 - DEBUG - Getting toys
+26.11.2022, 17:03:38 - INFO - Req was made
+26.11.2022, 17:03:38 - DEBUG - Getting toys
+26.11.2022, 17:03:49 - INFO - Req was made
+26.11.2022, 17:03:49 - DEBUG - Getting toys
+26.11.2022, 17:03:51 - INFO - Req was made
+26.11.2022, 17:03:51 - DEBUG - Getting toys
+26.11.2022, 17:03:52 - INFO - Req was made
+26.11.2022, 17:03:52 - DEBUG - Getting toys
+26.11.2022, 17:03:55 - INFO - Req was made
+26.11.2022, 17:03:55 - DEBUG - Getting toys
+26.11.2022, 17:04:07 - INFO - Req was made
+26.11.2022, 17:04:07 - DEBUG - Getting toys
+26.11.2022, 17:04:39 - INFO - Req was made
+26.11.2022, 17:04:39 - DEBUG - Getting toys
+26.11.2022, 17:04:43 - INFO - Req was made
+26.11.2022, 17:04:43 - DEBUG - Getting toys
+26.11.2022, 17:54:14 - DEBUG - auth.service - login with username: matan12
+26.11.2022, 17:54:14 - INFO - User login:  | {"_id":"63822a6c038f766605e62383","username":"matan12","fullname":"baycake","score":0,"isAdmin":true}
+26.11.2022, 17:54:15 - INFO - Req was made
+26.11.2022, 17:54:15 - DEBUG - Getting toys
+26.11.2022, 17:54:23 - DEBUG - auth.service - login with username: matan12
+26.11.2022, 17:54:23 - INFO - User login:  | {"_id":"63822a6c038f766605e62383","username":"matan12","fullname":"baycake","score":0,"isAdmin":true}
+26.11.2022, 17:54:23 - INFO - Req was made
+26.11.2022, 17:54:23 - DEBUG - Getting toys
+26.11.2022, 17:54:36 - INFO - Req was made
+26.11.2022, 17:54:36 - DEBUG - Getting toys
+26.11.2022, 17:55:07 - DEBUG - auth.service - login with username: matan12
+26.11.2022, 17:55:07 - INFO - User login:  | {"_id":"63822a6c038f766605e62383","username":"matan12","fullname":"baycake","score":0,"isAdmin":true}
+26.11.2022, 17:55:07 - INFO - Req was made
+26.11.2022, 17:55:07 - DEBUG - Getting toys
+26.11.2022, 17:56:09 - INFO - Req was made
+26.11.2022, 17:56:09 - DEBUG - Getting toys
+26.11.2022, 17:56:16 - DEBUG - auth.service - login with username: matan12
+26.11.2022, 17:56:16 - INFO - User login:  | {"_id":"63822a6c038f766605e62383","username":"matan12","fullname":"baycake","score":0,"isAdmin":true}
+26.11.2022, 17:56:16 - INFO - Req was made
+26.11.2022, 17:56:16 - DEBUG - Getting toys
+26.11.2022, 17:56:32 - INFO - Req was made
+26.11.2022, 17:56:32 - DEBUG - Getting toys
+26.11.2022, 17:56:38 - DEBUG - auth.service - login with username: matan12
+26.11.2022, 17:56:38 - INFO - User login:  | {"_id":"63822a6c038f766605e62383","username":"matan12","fullname":"baycake","score":0,"isAdmin":true}
+26.11.2022, 17:56:38 - INFO - Req was made
+26.11.2022, 17:56:38 - DEBUG - Getting toys
+26.11.2022, 17:56:46 - INFO - Req was made
+26.11.2022, 17:56:46 - DEBUG - Getting toys
+26.11.2022, 17:56:55 - DEBUG - auth.service - login with username: matan12
+26.11.2022, 17:56:55 - INFO - User login:  | {"_id":"63822a6c038f766605e62383","username":"matan12","fullname":"baycake","score":0,"isAdmin":true}
+26.11.2022, 17:56:55 - INFO - Req was made
+26.11.2022, 17:56:55 - DEBUG - Getting toys
+26.11.2022, 17:58:58 - INFO - Req was made
+26.11.2022, 17:58:58 - DEBUG - Getting toys
+26.11.2022, 18:11:29 - INFO - Req was made
+26.11.2022, 18:11:29 - DEBUG - Getting toys
+26.11.2022, 18:38:49 - INFO - Server is running on port: 3030
+26.11.2022, 18:38:52 - INFO - Req was made
+26.11.2022, 18:38:52 - DEBUG - Getting toys
+26.11.2022, 19:13:07 - DEBUG - auth.service - signup with username: admin, fullname: undefined
+26.11.2022, 19:13:07 - ERROR - Failed to signup fullname, username and password are required!
+26.11.2022, 19:13:11 - DEBUG - auth.service - signup with username: admin, fullname: undefined
+26.11.2022, 19:13:11 - ERROR - Failed to signup fullname, username and password are required!
+26.11.2022, 19:13:36 - DEBUG - auth.service - signup with username: admin, fullname: undefined
+26.11.2022, 19:13:36 - ERROR - Failed to signup fullname, username and password are required!
+26.11.2022, 19:15:55 - DEBUG - auth.service - signup with username: dad, fullname: undefined
+26.11.2022, 19:15:55 - ERROR - Failed to signup fullname, username and password are required!
+26.11.2022, 19:17:17 - DEBUG - auth.service - signup with username: admin, fullname: admin1
+26.11.2022, 19:17:17 - DEBUG - auth.route - new account created: {"username":"admin","password":"$2b$10$PHKGWkS5yn0HB6mf/maB8.UYmGRuzQWlkrv4CsDrvWDcyyFzjvDTu","fullname":"admin1","score":0,"isAdmin":true,"_id":"63824a1d53fbcd0671fb8412"}
+26.11.2022, 19:17:17 - DEBUG - auth.service - login with username: admin
+26.11.2022, 19:17:17 - INFO - User login:  | {"_id":"63824a1d53fbcd0671fb8412","username":"admin","fullname":"admin1","score":0,"isAdmin":true}
+26.11.2022, 19:17:17 - INFO - Req was made
+26.11.2022, 19:17:17 - DEBUG - Getting toys
+26.11.2022, 19:17:24 - INFO - Req was made
+26.11.2022, 19:17:24 - DEBUG - Getting toys
+26.11.2022, 19:17:29 - DEBUG - auth.service - login with username: admin
+26.11.2022, 19:17:29 - ERROR - Failed to Login Invalid username or password
+26.11.2022, 19:17:38 - DEBUG - auth.service - login with username: admin1
+26.11.2022, 19:17:38 - ERROR - Failed to Login TypeError: Cannot read properties of null (reading 'password')
+26.11.2022, 19:17:57 - DEBUG - auth.service - login with username: admin
+26.11.2022, 19:17:57 - ERROR - Failed to Login Invalid username or password
+26.11.2022, 19:18:12 - DEBUG - auth.service - signup with username: trueadmin, fullname: admin
+26.11.2022, 19:18:12 - DEBUG - auth.route - new account created: {"username":"trueadmin","password":"$2b$10$Y/GCsEChmmREPEFbftBmR.t8aD5H7HUOHSJy1sMzbRNe4w1dVvcei","fullname":"admin","score":0,"isAdmin":true,"_id":"63824a5453fbcd0671fb8413"}
+26.11.2022, 19:18:12 - DEBUG - auth.service - login with username: trueadmin
+26.11.2022, 19:18:12 - INFO - User login:  | {"_id":"63824a5453fbcd0671fb8413","username":"trueadmin","fullname":"admin","score":0,"isAdmin":true}
+26.11.2022, 19:18:12 - INFO - Req was made
+26.11.2022, 19:18:12 - DEBUG - Getting toys
+26.11.2022, 19:18:19 - DEBUG - auth.service - login with username: trueadmin
+26.11.2022, 19:18:19 - INFO - User login:  | {"_id":"63824a5453fbcd0671fb8413","username":"trueadmin","fullname":"admin","score":0,"isAdmin":true}
+26.11.2022, 19:18:19 - INFO - Req was made
+26.11.2022, 19:18:19 - DEBUG - Getting toys
+27.11.2022, 9:33:59 - INFO - Server is running on port: 3030
+27.11.2022, 9:34:15 - INFO - Req was made
+27.11.2022, 9:34:15 - DEBUG - Getting toys
+27.11.2022, 9:34:22 - DEBUG - auth.service - login with username: matan1
+27.11.2022, 9:34:22 - INFO - User login:  | {"_id":"6382070cebceaa4fde0225e4","username":"matan1","fullname":"baycake","score":0,"isAdmin":false}
+27.11.2022, 9:34:22 - INFO - Req was made
+27.11.2022, 9:34:22 - DEBUG - Getting toys
+27.11.2022, 9:34:24 - INFO - Req was made
+27.11.2022, 9:34:24 - DEBUG - Getting toys
+27.11.2022, 9:34:30 - DEBUG - auth.service - login with username: matan12
+27.11.2022, 9:34:30 - INFO - User login:  | {"_id":"63822a6c038f766605e62383","username":"matan12","fullname":"baycake","score":0,"isAdmin":true}
+27.11.2022, 9:34:30 - INFO - Req was made
+27.11.2022, 9:34:30 - DEBUG - Getting toys
+27.11.2022, 9:34:42 - INFO - Req was made
+27.11.2022, 9:34:42 - DEBUG - Getting toys
